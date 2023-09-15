@@ -63,15 +63,15 @@ To perform inference on new data, use the test script. Ensure that you have trai
 
 If you find this code or our work helpful, please consider citing our paper:
 
-@article{chen2023semi,
-  title={Semi-supervised unpaired medical image segmentation through task-affinity consistency},
-  author={Chen, Jingkun and Zhang, Jianguo and Debattista, Kurt and Han, Jungong},
-  journal={IEEE Transactions on Medical Imaging},
-  volume={42},
-  number={3},
-  pages={594--605},
-  year={2023},
-  publisher={IEEE}
+@article{chen2023semi,  
+  title={Semi-supervised unpaired medical image segmentation through task-affinity consistency},  
+  author={Chen, Jingkun and Zhang, Jianguo and Debattista, Kurt and Han, Jungong},  
+  journal={IEEE Transactions on Medical Imaging},  
+  volume={42},  
+  number={3},  
+  pages={594--605},  
+  year={2023},  
+  publisher={IEEE}  
 }
 
 ## Acknowledgments
