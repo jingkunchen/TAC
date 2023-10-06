@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Python 3.6 or higher
 - Pytorch version >=0.4.1.
-- Other required packages (list them here)
+- Other required packages (requirements.txt)
 
 ### Installation
 
